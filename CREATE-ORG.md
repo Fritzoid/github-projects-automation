@@ -1,4 +1,4 @@
-#Creating an organisation
+# Creating an organisation
 
 Create .github repo
 Set rulessets
