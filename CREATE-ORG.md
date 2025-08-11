@@ -5,4 +5,5 @@ Set rulessets
 Enforce branchings strategy  
 Template repo  
 Create develop branch  
+Use some tool for versioning  
 
