@@ -1,6 +1,8 @@
 # Creating an organisation
 
-Create .github repo  
+Create .github repo
 Set rulessets  
 Enforce branchings strategy  
 Template repo  
+Create develop branch  
+
